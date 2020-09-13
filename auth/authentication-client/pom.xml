@@ -31,10 +31,11 @@
 
     <dependencyManagement>
         <dependencies>
+
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-openfeign</artifactId>
-                <version>2.0.0.RC2</version>
+                <version>2.0.1.RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
